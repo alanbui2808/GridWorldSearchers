@@ -7,10 +7,10 @@
 They are designed to model at an abstract level the problem of navigating in a physical environment.
 Generally, the task is to find the path from *initial state* to some other *goal state* with the lowest cost.
 There may be obstacles or hazards in the world that the agent needs to avoid on its way to the goal.
-Your job in this assignment will be to solve this task using four different algorithms:
+In this project, there are implementations of 4 iconic searches for shortest-path problems:
 breadth-first search (BFS), uniform cost search (UCS), greedy best-first search (GBFS), and A*.  
 
-In this assignment, gridworlds are specified in text files.
+In this project, gridworlds are specified in text files.
 Each gridworld is a discrete, two-dimensional environment.
 Each state is referenced by a tuple, `(x, y)`, where `x` represents the column and `y` represents the row.
 The top-left state is always `(0, 0)`.
