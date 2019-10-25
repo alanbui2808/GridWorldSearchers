@@ -1,5 +1,5 @@
 
-Search Algorithms
+# Search Algorithms
 
 ## Preliminary: Gridworlds
 
