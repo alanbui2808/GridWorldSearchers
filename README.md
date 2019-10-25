@@ -58,7 +58,7 @@ python run.py random gw/0.txt
 ```
 
 This will run the random agent on example Gridworld 0 stored in `gw/0.txt`.
-If you implemented the gridworld correctly, you should see output that looks like:
+You should see output that looks like when running:
 
 ```
 solution [(0, 0), (1, 0), (0, 0), (1, 0), (1, 1)]
